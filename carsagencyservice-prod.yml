@@ -1,5 +1,5 @@
 tracer:
-  property: I AM THE DEV
+  property: I AM THE PROD
 spring:
   jpa:
     show-sql: true
