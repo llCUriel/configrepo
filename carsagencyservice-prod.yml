@@ -1,0 +1,12 @@
+tracer:
+  property: I AM THE DEV
+spring:
+  jpa:
+    show-sql: true
+    properties:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://database-trainees.c7tv74ddzcgl.us-east-1.rds.amazonaws.com:3306/db_customers
+    username: admin
+    password: 58542376_xD2
